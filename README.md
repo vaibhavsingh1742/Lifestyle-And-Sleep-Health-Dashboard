@@ -3,7 +3,7 @@ An interactive Power BI dashboard that visualizes lifestyle habits and sleep hea
 
 ![lifestyle-and-sleep-health-dashboard.png](https://i.postimg.cc/L8r7CBFb/Image-Preview.png)
 ## Tech Stack
-🛠️ Microsoft Excel, for data cleaning and organization
+🛠️ Microsoft Excel (for data cleaning and organization)
 
 🛠️ PowerBI
 ## Analysis

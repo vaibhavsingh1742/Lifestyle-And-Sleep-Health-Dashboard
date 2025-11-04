@@ -1,5 +1,6 @@
 # Lifestyle And Sleep Health Dashboard
 An interactive Power BI dashboard that visualizes lifestyle habits and sleep health patterns. It analyzes correlations between sleep duration, sleep quality, physical activity, and overall well-being through dynamic charts that convey various trends. It aims to provides insights that can help promote healthier habits and improved well-being.
+
 ![lifestyle-and-sleep-health-dashboard.png](https://i.postimg.cc/L8r7CBFb/Image-Preview.png)
 ## Tech Stack
 🛠️ Microsoft Excel, for data cleaning and organization

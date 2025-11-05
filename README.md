@@ -18,7 +18,7 @@ An interactive Power BI dashboard that visualizes lifestyle habits and sleep hea
 
 📈 Stress levels vs age-group
 ## Key Insights
-🎯Sleep quality increases with physical activity upto a certain threshold
+🎯Sleep quality increases with physical activity up to a certain threshold
 
 🎯Positive correlation between sleep duration and sleep quality for the most part
 
@@ -26,4 +26,4 @@ An interactive Power BI dashboard that visualizes lifestyle habits and sleep hea
 
 🎯Highest stress level trends with the sales occupation and Lowest with the engineer occupation
 
-🎯Lower stress levels with an increase in physical activity upto a certain threshold
+🎯Lower stress levels with an increase in physical activity up to a certain threshold
